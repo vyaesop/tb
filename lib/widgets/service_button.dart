@@ -31,7 +31,7 @@ class ServiceButton extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Icon(icon, size: 30, color: const Color(0xFF69C17D)),
-            const SizedBox(height: 8),
+            const SizedBox(height: 4),
             Text(
               label,
               textAlign: TextAlign.center,
