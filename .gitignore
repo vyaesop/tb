@@ -62,3 +62,6 @@ android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
 .vscode/
 *.iml
 .idx/
+
+# FVM Version Cache
+.fvm/
